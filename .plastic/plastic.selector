@@ -1,0 +1,4 @@
+repository "Brotato@tj_wechat_os_qy0w7tgtfjm8yww_lemqnq9_m@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

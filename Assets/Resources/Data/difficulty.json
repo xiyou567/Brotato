@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "危险0",
+    "describe" : "",
+    "levelName": "level0"
+  },
+  {
+    "id": 2,
+    "name": "危险1",
+    "describe" : "出现新敌人",
+    "levelName": "level1"
+  },
+  {
+    "id": 3,
+    "name": "危险2",
+    "describe" : "精英怪和敌群出现",
+    "levelName": "level2"
+  },
+  {
+    "id": 4,
+    "name": "危险3",
+    "describe" : "敌人更加强大",
+    "levelName": "level3"
+  },
+  {
+    "id": 5,
+    "name": "危险4",
+    "describe" : "更多的精英怪和敌群出现",
+    "levelName": "level4"
+  }
+]

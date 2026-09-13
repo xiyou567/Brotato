@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "waveTimer": 20,
+    "enemys": [
+      {
+        "enemyName": "enemy4",
+        "timeAxis": 1,
+        "count": 1,
+        "elite": 0
+      }
+    ]
+  },
+  
+  {
+    "id": 1,
+    "waveTimer": 20,
+    "enemys": [
+      {
+        "enemyName": "enemy1",
+        "timeAxis": 1,
+        "count": 4
+      },
+      {
+        "enemyName": "enemy1",
+        "timeAxis": 4,
+        "count": 4
+      },
+      {
+        "enemyName": "enemy1",
+        "timeAxis": 7,
+        "count": 4
+      },
+      {
+        "enemyName": "enemy1",
+        "timeAxis": 10,
+        "count": 4
+      },
+      {
+        "enemyName": "enemy1",
+        "timeAxis": 13,
+        "count": 4
+      },
+      {
+        "enemyName": "enemy1",
+        "timeAxis": 16,
+        "count": 4
+      },
+      {
+        "enemyName": "enemy1",
+        "timeAxis": 18,
+        "count": 4
+      }
+    ]
+  }
+]

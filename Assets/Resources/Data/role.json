@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "全能者",
+    "avatar": "Image/人物/全能",
+    "describe": "<color=#00FF00>+5</color> 最大生命值\n<color=#00FF00>+5</color> %速度\n<color=#00FF00>+8</color> 收获",
+    "slot": 6,
+    "record": -1,
+    "unlock": 1,
+    "unlockConditions": "",
+    "passive": {
+      "maxHp": 5,
+      "speedPer": 0.05
+    }
+  },
+
+  {
+    "id": 2,
+    "name": "斗士",
+    "avatar": "Image/人物/斗士",
+    "describe": "使用<color=#00FF00>徒手</color>类武器时<color=#00FF00>+50%攻击速度</color>\n初始有用<color=#00FF00>1拳</color>\n<color=#00FF00>+15</color> %闪避\n<color=#FF0000>-50</color> 范围\n<color=#FF0000>-50</color> 远程伤害",
+    "slot": 6,
+    "record": -1,
+    "unlock": 1,
+    "unlockConditions": ""
+
+  },
+
+  {
+    "id": 4,
+    "name": "多面手",
+    "avatar": "Image/人物/多面手",
+    "describe": "<color=#00FF00>+20</color> %伤害\n同时能装备<color=#00FF00>12</color>种武器\n每持有1件武器<color=#FF0000>-5%伤害</color>",
+    "slot": 6,
+    "record": -1,
+    "unlock": 0,
+    "unlockConditions": "完成一局游戏",
+    "conditionType": "playCount",
+    "conditionValue": 1,
+    "passive": {
+      "damagePer":0.2
+    }
+
+  },
+  {
+    "id": 5,
+    "name": "公牛",
+    "avatar": "Image/人物/公牛",
+    "describe": "<color=#00FF00>+20</color> 最大生命值\n<color=#00FF00>+15</color> 生命再生\n<color=#00FF00>+10</color> 护甲\n<color=#00FF00>生命再生</color>的修改增加<color=#00FF00>50%</color>\n当你受到伤害会爆炸, 造成<color=#00FF00>30</color>伤害\n你无法装备武器",
+    "slot": 6,
+    "record": -1,
+    "unlock": 0,
+    "unlockConditions": "一场游戏中最大生命值达到50",
+    "conditionType": "maxHp",
+    "conditionValue": 50,
+    "passive": {
+      "maxHp": 20
+     
+    }
+  }
+]

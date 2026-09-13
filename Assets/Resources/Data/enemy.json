@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "enemy1",
+    "hp": 8,
+    "damage": 1,
+    "speed": 3,
+    "attackTime": 1.5,
+    "provideExp": 1,
+    "skillTime": -1,
+    "range": -1,
+    "sprite": "Image/怪物/普通怪1"
+  },
+  {
+    "id": 2,
+    "name": "enemy2",
+    "hp": 6,
+    "damage": 1,
+    "speed": 4,
+    "attackTime": 1.5,
+    "provideExp": 1,
+    "skillTime": -1,
+    "range": -1,
+    "sprite": "Image/怪物/普通怪2"
+  },
+  {
+    "id": 3,
+    "name": "enemy3",
+    "hp": 8,
+    "damage": 1,
+    "speed": 3,
+    "attackTime": 1.5,
+    "provideExp": 3,
+    "skillTime": 2.5,
+    "range": 5.5,
+    "sprite": "Image/怪物/远程怪"
+  },
+  {
+    "id": 4,
+    "name": "enemy4",
+    "hp": 8,
+    "damage": 1,
+    "speed": 3,
+    "attackTime": 1.5,
+    "provideExp": 3,
+    "skillTime": 3.5,
+    "range": 3.5,
+    "sprite": "Image/怪物/冲锋怪"
+  },
+  {
+    "id": 5,
+    "name": "enemy5",
+    "hp": 100,
+    "damage": 1,
+    "speed": 2.5,
+    "attackTime": 1.5,
+    "provideExp": 10,
+    "skillTime": 4.5,
+    "range": 5,
+    "sprite": "Image/怪物/终极boss"
+  }
+]
